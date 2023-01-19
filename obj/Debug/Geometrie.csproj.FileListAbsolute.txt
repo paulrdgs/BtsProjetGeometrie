@@ -1,0 +1,78 @@
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie.csprojAssemblyReference.cache
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\MainWindow.g.cs
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\App.g.cs
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+F:\cle usb paul copie\BTS SIO\Geometrie\bin\Debug\Geometrie.exe.config
+F:\cle usb paul copie\BTS SIO\Geometrie\bin\Debug\Geometrie.exe
+F:\cle usb paul copie\BTS SIO\Geometrie\bin\Debug\Geometrie.pdb
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\MainWindow.baml
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie.g.resources
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie.exe
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Geometrie.pdb
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Questions.g.cs
+F:\cle usb paul copie\BTS SIO\Geometrie\obj\Debug\Questions.baml
+F:\Geometrie\bin\Debug\Geometrie.exe.config
+F:\Geometrie\bin\Debug\Geometrie.exe
+F:\Geometrie\bin\Debug\Geometrie.pdb
+F:\Geometrie\obj\Debug\Geometrie.csprojAssemblyReference.cache
+F:\Geometrie\obj\Debug\MainWindow.g.cs
+F:\Geometrie\obj\Debug\App.g.cs
+F:\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+F:\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+F:\Geometrie\obj\Debug\MainWindow.baml
+F:\Geometrie\obj\Debug\Geometrie.g.resources
+F:\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+F:\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+F:\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+F:\Geometrie\obj\Debug\Geometrie.exe
+F:\Geometrie\obj\Debug\Geometrie.pdb
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\bin\Debug\Geometrie.exe.config
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\bin\Debug\Geometrie.exe
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\bin\Debug\Geometrie.pdb
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie.csprojAssemblyReference.cache
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\MainWindow.g.cs
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\App.g.cs
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\MainWindow.baml
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie.g.resources
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie.exe
+F:\cle usb paul copie\BTS SIO\B2\Juillard\Geometrie\obj\Debug\Geometrie.pdb
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\bin\Debug\Geometrie.exe.config
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\bin\Debug\Geometrie.exe
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\bin\Debug\Geometrie.pdb
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.csprojAssemblyReference.cache
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\MainWindow.g.cs
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\App.g.cs
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\MainWindow.baml
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.g.resources
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.exe
+E:\cle usb paul copie\BTS SIO\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.pdb
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\bin\Debug\Geometrie.exe.config
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\bin\Debug\Geometrie.exe
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\bin\Debug\Geometrie.pdb
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.csproj.SuggestedBindingRedirects.cache
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\MainWindow.g.cs
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\App.g.cs
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\MainWindow.baml
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.g.resources
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.exe
+E:\cle usb paul copie\BTS SIO\BTS SIZOO\UwAmp\www\my-app\B2\Juillard\projet geometrie\Geometrie\obj\Debug\Geometrie.pdb
